@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  main: 1
+  menue: 1
+
+two:
+  main: 1
+  menue: 1
